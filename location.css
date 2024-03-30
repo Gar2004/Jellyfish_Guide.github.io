@@ -1,0 +1,66 @@
+.pacific{
+    height: 10px;
+    width: 75px;
+    background-color: #FFD35C;
+    margin: -10px;
+  }
+  .worldWaters{
+      height: 10px;
+      width: 75px;
+      background-color:#FF8201;
+      margin: -10px;
+  }
+  .indoPacific{
+      height: 10px;
+      width: 75px;
+      background-color: #F37252;
+      margin: -10px;
+  }
+  .artic{
+      height: 10px;
+      width: 75px;
+      background-color: #c62c3A;
+      margin: -10px;
+  }
+  .indoAtlantic{
+      height: 10px;
+      width: 75px;
+      background-color:#4E1339 ;
+      margin: -10px;
+  }
+  .atlantic{
+      height: 10px;
+      width: 75px;
+      background-color: #954567;
+      margin: -10px;
+  }
+  .atlanticPacific{
+      height: 10px;
+      width: 75px;
+      background-color:#4BC4D5 ;
+      margin: -10px;
+  }
+  .atlanticArctic{
+      height: 10px;
+      width: 75px;
+      background-color:#02B58A ;
+      margin: -10px;
+  }
+  .indian{
+      height: 10px;
+      width: 75px;
+      background-color:#0180B5 ;
+      margin: -10px;
+  }
+  .indoArctic{
+      height: 10px;
+      width: 75px;
+      background-color:#8a9747;
+      margin: -10px;
+  }
+  #keyText{
+      font-size: 12px;
+      position: relative;
+      left: 85px;
+      top: 20px;
+  }

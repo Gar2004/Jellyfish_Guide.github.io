@@ -1,0 +1,96 @@
+.chitinousColonial{
+  height: 10px;
+  width: 75px;
+  background-color: #E74C3C;
+  margin: -10px;
+}
+.crown{
+    height: 10px;
+    width: 75px;
+    background-color:#76448A;
+    margin: -10px;
+}
+.fused{
+    height: 10px;
+    width: 75px;
+    background-color: #2874A6;
+    margin: -10px;
+}
+.nonchitinousColonial{
+    height: 10px;
+    width: 75px;
+    background-color: #148F77;
+    margin: -10px;
+}
+.ringed{
+    height: 10px;
+    width: 75px;
+    background-color:#1E8449 ;
+    margin: -10px;
+}
+.roundedComb{
+    height: 10px;
+    width: 75px;
+    background-color: #F1C40F;
+    margin: -10px;
+}
+.lobedComb{
+    height: 10px;
+    width: 75px;
+    background-color:#F39C12 ;
+    margin: -10px;
+}
+.belt{
+    height: 10px;
+    width: 75px;
+    background-color:#BA4A00 ;
+    margin: -10px;
+}
+.zipLock{
+    height: 10px;
+    width: 75px;
+    background-color:#212F3D ;
+    margin: -10px;
+}
+.stemmed{
+    height: 10px;
+    width: 75px;
+    background-color: #FFB6C1;
+    margin: -10px;
+}
+.flagMouth{
+    height: 10px;
+    width: 75px;
+    background-color: #FF1493;
+    margin: -10px;
+}
+.branchBox{
+    height: 10px;
+    width: 75px;
+    background-color: #6A5ACD;
+    margin: -10px;
+}
+.harpoon{
+    height: 10px;
+    width: 75px;
+    background-color:#cc33ff;
+    margin: -10px;
+}
+.unbranchedBox{
+    height: 10px;
+    width: 75px;
+    background-color:#000099 ;
+    margin: -10px;
+}
+.complexColonial{
+    height: 10px;
+    width: 75px;
+    background-color:#006600 ;
+    margin: -10px;
+}
+#legendText{
+    font-size: 12px;
+    position: relative;
+    left: 85px;
+    top: 20px;
+}

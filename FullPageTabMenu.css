@@ -1,0 +1,37 @@
+/* Set height of body and the document to 100% to enable "full page tabs" */
+body, html {
+    height: 100%;
+    margin: 0;
+    font-family: Arial;
+  }
+  
+  /* Style tab links */
+  .tablink {
+    background-color: #B3B3B3;
+    color: #000000;
+    float: left;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    padding: 14px 16px;
+    font-size: 17px;
+    width: 20%;
+  }
+  
+  .tablink:hover {
+    background-color: #E8E9EB;
+  }
+  
+  /* Style the tab content (and add height:100% for full page content) */
+  .tabcontent {
+    color: #000000;
+    display: none;
+    padding: 100px 20px;
+    height: 350%;
+  }
+  
+  #Introduction {background-color: #ACCBFF;}
+  #OceanDepthData {background-color: #92BBFF}
+  #Size {background-color: #8AB5FF}
+  #Map {background-color: #94B4FF}
+  #MasterPage{background-color:#ADADFF} 
